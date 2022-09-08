@@ -44,7 +44,7 @@ function getAdvice() {
 ```
 
 ## Author
-- Frontend Mentor - [@yourusername](https://www.frontendmentor.io/profile/yourusername)
+- Frontend Mentor - [@Rosenval](https://www.frontendmentor.io/profile/Rosenval)
 
 ### Collaborators
 - Frontend Mentor - [@tylerdurden230](https://www.frontendmentor.io/profile/tylerdurden230)
