@@ -18,21 +18,19 @@ Users should be able to:
 
 ### Links
 
-- [Solution](https://your-solution-url.com)
+- [Solution](https://github.com/Rosenval/advice-generator-app.git)
 - [Live Site](https://flamiapp.netlify.app/)
-
-## My process
 
 ### Built with
 
 - Semantic HTML5 markup
 - CSS custom properties
 - Flexbox
-- Vanilla Javascript
+- Vanilla JavaScript
 
 ### What I learned
 
-I've learned how to fetch data from api
+I learned how to fetch data from an third-party API
 
 ```
 function getAdvice() {
@@ -44,10 +42,6 @@ function getAdvice() {
     });
 }
 ```
-
-### Continued development
-
-Use this section to outline areas that you want to continue focusing on in future projects. These could be concepts you're still not completely comfortable with or techniques you found useful that you want to refine and perfect.
 
 ## Author
 - Frontend Mentor - [@yourusername](https://www.frontendmentor.io/profile/yourusername)
