@@ -18,7 +18,7 @@ Users should be able to:
 
 ### Links
 
-- [Solution](https://github.com/Rosenval/advice-generator-app.git)
+- [Solution](https://www.frontendmentor.io/solutions/random-advice-app-58GOKUlQNc)
 - [Live Site](https://flamiapp.netlify.app/)
 
 ### Built with
